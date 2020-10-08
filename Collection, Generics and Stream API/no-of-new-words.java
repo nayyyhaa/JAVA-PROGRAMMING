@@ -68,7 +68,7 @@ The words are
 
 3. welcome*/
 
-/import the necessary packages if needed
+//import the necessary packages if needed
 import java.util.*;
 @SuppressWarnings("unchecked")//Do not delete this line
 public class UniqueWords
