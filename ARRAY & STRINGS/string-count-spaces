@@ -1,0 +1,12 @@
+class Main {
+  public static void main(String[] args) {
+    String s = "this is my string";
+    int n = 0;
+    for(char c : s.toCharArray()) {
+      if(c == ' '){
+        n+=1;
+      }
+    }
+    System.out.println(n);
+  }
+}
