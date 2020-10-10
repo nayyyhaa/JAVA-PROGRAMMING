@@ -59,7 +59,7 @@ Yahoo PlayStore is a digital distribution service operated and developed by Yaho
 */
 import java.util.Arrays;
 import java.util.Scanner;
-class ReplaceWord
+public class FindAndReplaceWord
 {
   public static void main (String[] args) {
     Scanner s=new Scanner(System.in);
