@@ -1,4 +1,4 @@
-Problem Statement: Output the amount of spaces in a given string.
+//Problem Statement: Output the amount of spaces in a given string.
 
 class Main {
   public static void main(String[] args) {
