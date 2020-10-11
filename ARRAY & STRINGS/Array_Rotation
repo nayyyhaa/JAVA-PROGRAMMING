@@ -1,3 +1,5 @@
+#This program rotates elements of array list from right to left by p movements.
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
